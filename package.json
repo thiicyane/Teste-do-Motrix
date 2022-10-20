@@ -1,0 +1,25 @@
+{
+  "name": "teste-do-motrix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiicyane/Teste-do-Motrix.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiicyane/Teste-do-Motrix/issues"
+  },
+  "homepage": "https://github.com/thiicyane/Teste-do-Motrix#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
